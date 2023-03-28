@@ -44,7 +44,6 @@ function Home({ pcolors, setPcolors }) {
         </div>
 
         <NavLink
-          to="/skills"
           className="nav-links arrow-dropp"
           activeClassName="active"
         >
